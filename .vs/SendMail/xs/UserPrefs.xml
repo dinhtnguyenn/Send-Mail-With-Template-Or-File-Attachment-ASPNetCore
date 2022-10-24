@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{B7F08292-25D2-48A2-B02D-6EFB3E019984}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SendMail PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SendMail/appsettings.json">
+    <Files>
+      <File FileName="SendMail/Models/IMailService.cs" Line="3" Column="2" />
+      <File FileName="SendMail/Models/MailRequest.cs" Line="6" Column="23" />
+      <File FileName="SendMail/Models/MailService.cs" Line="60" Column="88" />
+      <File FileName="SendMail/Models/MailSettings.cs" Line="1" Column="1" />
+      <File FileName="SendMail/Controllers/SendMailController.cs" Line="30" Column="23" />
+      <File FileName="SendMail/Templates/index.html" Line="106" Column="146" />
+      <File FileName="SendMail/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="SendMail/Program.cs" Line="1" Column="1" />
+      <File FileName="SendMail/appsettings.json" Line="14" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SendMail" expanded="True">
+            <Node name="SendMail" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Templates" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
